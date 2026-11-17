@@ -1,5 +1,5 @@
 # nades.ai
 
-nades.ai is a free Counter-Strike 2 lineup library built from pro match demos: every smoke, molotov, flash and HE pros actually threw in the last 3 months, each with a video, where to stand and where to aim, plus team and player utility, combos and callouts. In 11 languages.
+CS2 lineups backed by pro match data. nades.ai reads every pro match demo and turns it into a utility library: which smokes, flashes and molotovs the top teams really throw, how often, on which side, how many rounds they win with them, and what's rising in the meta. Plus team and player utility stats, leaderboards, full executes, callouts for every map and Major coverage. Free.
 
 Website: [https://nades.ai](https://nades.ai)
